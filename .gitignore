@@ -95,6 +95,7 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java
 
+<<<<<<< HEAD
 # commit 제외 파일 #
 /Git_ignore_test/src/main/java/nocommit_all/
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java 
@@ -103,3 +104,7 @@ replay_pid*
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
 /Git_ignore_test/src/main/webapp/WEB-INF/Command.properties
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_5_right.java
+=======
+/Git_ignore_test/src/main/java/nocommit_all/
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java 
+>>>>>>> branch 'main' of https://github.com/seoyeon0219/Git_ignore_test.git
