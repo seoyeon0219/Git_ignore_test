@@ -94,3 +94,6 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java
+
+/Dynamic Web Project 이름/src/main/java/nocommit_all/
+/Dynamic Web Project 이름/src/main/java/nocommit_some/NoCommit_3.java 
